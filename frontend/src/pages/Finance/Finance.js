@@ -23,4 +23,4 @@ function FinanceDashBoard() {
     );
 };
 
-export default FinanceDashboard;
+export default FinanceDashBoard;
